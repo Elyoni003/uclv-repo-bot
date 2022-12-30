@@ -17,15 +17,15 @@
     },
     "TOKEN": {
       "description": "Token del bot que vas a configurar",
-      "value": "1926772761:AAFvnrvgF9YYIj4AXNB828FJtOvgHJk3T0c"
+      "value": "5738888687:AAEPCZR1-QzWiynF1omHSbaQcTU-Rij_jcI"
     },
     "USER": {
       "description": "Usuario de moodle",
-      "value": "livanp"
+      "value": "noramirez"
     },
     "PASSWORD": {
       "description": "Contraseña del usuario de moodle",
-      "value": "Copernico*2"
+      "value": "chircan*99"
     }
   },
   "addons": [
